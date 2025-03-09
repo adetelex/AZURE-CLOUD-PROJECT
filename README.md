@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c9466099-f528-464f-813a-5767fe23517f)# AZURE-CLOUD-PROJECT
+# AZURE-CLOUD-PROJECT
 
 # LINUX VM
 Creating Azure Virtual Network under Free Services
@@ -29,3 +29,4 @@ CLI of Windows Server 2022 Data Center VM
 (Template and parameter can't be utilize after deletion)
 Creating a non-free VM for proper optimization and disaster recovery
 
+![image](https://github.com/user-attachments/assets/c9466099-f528-464f-813a-5767fe23517f)
